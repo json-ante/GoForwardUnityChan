@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnityChan2D
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1355a58c3bd9c40679bea54b926e0179, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1355a58c3bd9c40679bea54b926e0179, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.9
@@ -1050,7 +1054,7 @@ GameObject:
   - component: {fileID: 1987313911}
   m_Layer: 0
   m_Name: ground
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
